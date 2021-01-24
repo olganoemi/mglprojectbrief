@@ -14,20 +14,30 @@
 
 }
 
+
+
 .headerName{
 	width: 70%;
 	display: inline;
+}
+
+
+.headerMenuRight{
+	float:right;
 }
 
 .headerMenuList{
 	text-align: right;
 	list-style: none;
 	width:30%;
+	display: inline-flex;
 }
 
 
 .centerHeadertext{
-	position: relative;
+	text-align: center;
+	color: white;
+
 }
 
 
@@ -38,11 +48,31 @@
 	
 	height: 100%;
 	width: 100%;
-	position: absolute;
+	
 }
 
 }
 
 .headerMenu{
+
+}
+
+
+.underline{
+	color: navy;
+}
+/*container 2*/
+.location{
 	position: absolute;
+}
+
+/*realtor section*/
+
+/*footer*/
+.contactContainer{
+
+}
+
+.footergray{
+	color: gray;
 }
