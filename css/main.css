@@ -1,8 +1,38 @@
+/* header */
+
 .container1{
 	background-image: url('../images/intro-bg.png');
 	background-size: cover;
 
 }
+
+.headerMenuContainer1 {
+	width: 70%;
+	position: relative;
+	color: white;
+	margin: auto;
+
+}
+
+.headerName{
+	width: 70%;
+	display: inline;
+}
+
+.headerMenuList{
+	text-align: right;
+	list-style: none;
+	width:30%;
+}
+
+
+.centerHeadertext{
+	position: relative;
+}
+
+
+
+
 
 .container1{
 	
@@ -15,5 +45,4 @@
 
 .headerMenu{
 	position: absolute;
-
 }
