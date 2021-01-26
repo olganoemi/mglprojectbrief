@@ -2,7 +2,8 @@
 
 .container1{
 	background-image: url('../images/intro-bg.png');
-	background-size: cover;
+	background-size: cover list-style;
+
 
 }
 
@@ -65,6 +66,16 @@
 .location{
 	position: absolute;
 }
+
+
+
+/*gallery*/
+
+.card{
+ position: inline;
+}
+
+
 
 /*realtor section*/
 
