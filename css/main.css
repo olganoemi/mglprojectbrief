@@ -19,6 +19,7 @@ body, html{
 
 .headerMenuContainer1 {
 	position: relative;
+	position: inline-block;
 	color: white;
 	margin: auto;
 
@@ -39,6 +40,28 @@ body, html{
 	display: inline;
 
 }
+
+
+.centerHeadertext{
+	position: inline;
+	color: white;
+	margin-top: 15%;
+}
+
+.centerHeadertext p{
+	position: inline;
+	color: white;
+	text-align: center;
+}
+
+.hey{
+	color :white;
+	text-align: center;
+}
+.contactBtn1{
+	background: white;
+}
+
 
 
 /*
