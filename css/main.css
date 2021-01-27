@@ -22,6 +22,7 @@ body, html{
 	position: inline-block;
 	color: white;
 	margin: auto;
+	width: 85%;
 
 }
 
@@ -38,6 +39,7 @@ body, html{
 
 .headerMenu li {
 	display: inline;
+	padding-left: 50px;
 
 }
 
@@ -63,6 +65,13 @@ body, html{
 }
 
 
+.container{
+	text-align: center;
+}
+
+
+.gallery{}
+/* container 2*/
 
 /*
 
