@@ -1,8 +1,18 @@
 /* header */
+body, html{
+	height: 100%;
+}
+
+
 
 .container1{
 	background-image: url('../images/intro-bg.png');
-	background-size: cover list-style;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	width: 100%;
+	height:100%;
+	margin: auto;
 
 
 }
@@ -15,6 +25,36 @@
 
 }
 
+.headerMenu{
+	
+}
+
+.heaedrName{
+	position: inline;
+	float:left;
+}
+
+
+.headerMenuList{
+	list-style: none;
+	float: right;
+	padding: 0px;
+}
+
+.headerMenuList li{
+	display: inline;
+}
+
+
+
+
+
+.Container2_featuredHomes{
+	text-align: center;
+
+}
+
+/*
 
 
 .headerName{
@@ -54,8 +94,8 @@
 
 }
 
-.headerMenu{
-
+.menu{
+	text-align: center;
 }
 
 
@@ -63,6 +103,8 @@
 	color: navy;
 }
 /*container 2*/
+
+/*
 .location{
 	position: absolute;
 }
@@ -70,7 +112,7 @@
 
 
 /*gallery*/
-
+/*
 .card{
  position: inline;
 }
@@ -79,7 +121,7 @@
 
 /*realtor section*/
 
-/*footer*/
+/*footer
 .contactContainer{
 
 }
