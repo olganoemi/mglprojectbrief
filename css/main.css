@@ -26,6 +26,19 @@ body, html{
 
 }
 
+.headerMenu{
+	float: right;
+}
+
+
+
+.headerMenu p{
+	margin-top: 50px;
+}
+
+.headerMenuList ul {
+	margin-top: 50px;
+}
 .headerMenu p {
 	float: left;
 }
@@ -71,7 +84,15 @@ body, html{
 
 
 .gallery{}
+
+
 /* container 2*/
+
+
+
+
+
+
 
 /*
 
